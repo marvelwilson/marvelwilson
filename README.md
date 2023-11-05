@@ -47,7 +47,8 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=marvelwilson&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=marvelwilson&theme=radical&hide_border=false)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true) <br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true) <br/> 
+![](https://camo.githubusercontent.com/b9f90b1d6fe362d60baca13304e88cd983f95da54f8cc41396bc4debbe8e4c59/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a726126696e636c7564655f616c6c5f636f6d6d6974733d74727565)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=marvelwilson&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
