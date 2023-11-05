@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
- 👋 Hello, there! I'm Francis-Codex 🚀<br><br>Welcome to my GitHub profile! I'm a passionate and creative **Full Stack Web 2 & 3 Developer** 🌐<br><br> # **💼What I Do**<br><br>As a full-stack developer, I have hands-on experience working with the latest web technologies, frameworks, and libraries. I love tackling challenges at every layer of the stack.<br><br>## 🌟 **My Journey**<br><br>My coding journey began with a curiosity for technology and a desire to bring ideas to life through code.. <br><br>## 🚀 **My Passion**<br><br>What excites me the most about web development is the ability to create solutions that make a positive impact on people's lives.<br><br>## 🤝 Let's Connect & build digital magic! 🚀✨ <br><br>I'm always looking for exciting opportunities to collaborate on interesting projects or contribute to meaningful initiatives. Feel free to reach out to me for discussions, or just to say "Hi"! Let's connect.<br><br>## 🌟 Open Source Contributions<br><br>I'm a strong believer in giving back to the community. Check out my open-source contributions and repositories.<br><br>⭐️ Don't forget to star some of my projects if you find them interesting! Your support means a lot to me.<br><br>Let's build, learn, and make a positive impact together! 🚀<br>
+ 👋 Hello, there! I'm marvelousx 🚀<br><br>Welcome to my GitHub profile! I'm a passionate and creative **Full Stack Web 2 & 3 Developer** 🌐<br><br> # **💼What I Do**<br><br>As a full-stack developer, I have hands-on experience working with the latest web technologies, frameworks, and libraries. I love tackling challenges at every layer of the stack.<br><br>## 🌟 **My Journey**<br><br>My coding journey began with a curiosity for technology and a desire to bring ideas to life through code.. <br><br>## 🚀 **My Passion**<br><br>What excites me the most about web development is the ability to create solutions that make a positive impact on people's lives.<br><br>## 🤝 Let's Connect & build digital magic! 🚀✨ <br><br>I'm always looking for exciting opportunities to collaborate on interesting projects or contribute to meaningful initiatives. Feel free to reach out to me for discussions, or just to say "Hi"! Let's connect.<br><br>## 🌟 Open Source Contributions<br><br>I'm a strong believer in giving back to the community. Check out my open-source contributions and repositories.<br><br>⭐️ Don't forget to star some of my projects if you find them interesting! Your support means a lot to me.<br><br>Let's build, learn, and make a positive impact together! 🚀<br>
 
 
 ## 🌐 Socials:
@@ -12,11 +12,11 @@
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/vrrDqmJ4)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/franciscodex999/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francis-codex-a84b68247/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marvelousx-a84b68247/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@francislogo2219)
-[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://www.quora.com/profile/Francis-Codex)
+[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://www.quora.com/profile/marvelousx)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/ContributionTop3042)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21605157/francis-codex)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21605157/marvelousx)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@franciscodex999?is_from_webapp=1&sender_device=pc)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/francis_codex)
 
@@ -44,15 +44,15 @@
 ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)  ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=francis-codex&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=francis-codex&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=francis-codex&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=marvelousx&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=marvelousx&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=marvelousx&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=francis-codex&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=marvelousx&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://bmc.link/franciscodex999) 
