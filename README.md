@@ -49,7 +49,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=uwezukwechibuzor&theme=radical&hide_border=false)<br/>
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=marvelwilson&hide_progress=true) <br/> 
 [![](https://github-readme-stats.vercel.app/api/wakatime?username=marvelwilson)](https://github.com/marvelwilson/marvelwilson) <br/> -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=marvelwilson&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=marvuwezukwechibuzorelwilson&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
